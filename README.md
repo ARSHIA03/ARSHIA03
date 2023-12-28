@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Arshia Mathur</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+<h3 align="center">A passionate data scientist from Noida</h3>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently a **third year student.**
 
-- 📫 How to reach me **mathurarshia03@gmail.com**
+- 🌱 Currently learning **Data Science.**
+
+- 👯 I’m keenly interested in **dancing and singing.**
+
+- 📫 Reach me : **mathurarshia03@gmail.com**
+
+- 📊 Analyze, Code & Predict.
 
 - ⚡ Fun fact **Data scientists have “data-phoria” – euphoria when they uncover a valuable piece of data.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
