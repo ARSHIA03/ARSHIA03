@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arshia Mathur</h1>
 <h3 align="center">Crunching Data, Crafting Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshia03&label=Profile%20views&color=0e75b6&style=flat" alt="arshia03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshia03" alt="arshia03" /></a> </p>
-
 - 🔭 I’m currently a **third year student.**
 
 - 🌱 Currently learning **Data Science.**
