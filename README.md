@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arshia-mathur-b31a32249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arshia-mathur-b31a32249/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/arshia0309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arshia0309" height="30" width="40" /></a>
+  <a href="https://twitter.com/https://twitter.com/arshia_mathur03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/arshia_mathur03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mathurarshia03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mathurarshia03" height="30" width="40" /></a>
 </p>
 
