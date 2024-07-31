@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arshia Mathur</h1>
 <h3 align="center">Crunching Data, Crafting Insights</h3>
 
-- 🔭 I’m currently a **third year student.**
+- 🔭 I’m currently a **final year student.**
 
 - 🌱 Currently learning **Data Science.**
 
