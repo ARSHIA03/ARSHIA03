@@ -7,7 +7,7 @@
 
 - 👯 I’m keenly interested in **dancing and singing.**
 
-- 📫 Reach me : **mathurarshia03@gmail.com**
+- 📫 Reach me : **mathurarshia03@gmail.com** | **https://www.linkedin.com/in/arshiamathur** | **https://twitter.com/arshia_mathur03**
 
 - ⚡ Fun fact **Data scientists have “data-phoria” – euphoria when they uncover a valuable piece of data.**
 
